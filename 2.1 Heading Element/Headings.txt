@@ -1,0 +1,3 @@
+Headings range from h1 - h6
+    - Should only have one h1
+    - follow the order and never skip a level

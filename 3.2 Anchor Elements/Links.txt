@@ -1,0 +1,12 @@
+Anchor tags are used to create hyperlinks
+
+Tag SYNTAX:
+
+Tags can have attributes which are listed in the opening tag and space separated
+
+<a attribute1=att1_val attribute2=att2_Val>Tag_Content</a>
+
+Attributes:
+
+- href="Target"      -->Creates a hyperlink pointing to the target
+- draggable=true     -->Becomes draggable

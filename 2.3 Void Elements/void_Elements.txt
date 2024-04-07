@@ -1,0 +1,6 @@
+Void elements have no contents
+
+Structure <hr />
+
+Horizontal Rule     : <hr />
+Breaks              : <br />

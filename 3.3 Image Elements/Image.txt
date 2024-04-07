@@ -1,0 +1,11 @@
+Self closing - Void element
+
+SYNTAX:
+    <img src="location" alt="Accessibility" />
+
+Attributes:
+    - src - Location URL/Drive location
+    - alt - Alternate text if image is not loadable/Accessibility
+
+Useful website:
+    - Lorem Picsum: picsum.photos/200

@@ -1,0 +1,31 @@
+LISTS:
+------
+
+1. Unordered Lists - Bullet points where order is not important
+
+SYNTAX:
+
+<ul>
+    <li></li>
+    <li></li>
+</ul>
+
+
+2. Ordered Lists - Numbered [By Default] lists where the order is of significance
+
+<ol>
+    <li></li>
+    <li></li>
+</ol>
+
+
+*Lists can be nested
+
+
+ol attribute: type
+    Sets the numbering type:
+        a for lowercase letters
+        A for uppercase letters
+        i for lowercase Roman numerals
+        I for uppercase Roman numerals
+        1 for numbers (default)
